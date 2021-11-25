@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://lebmouse.github.io/csb-8nj3z/static/css/main.7af86b17.chunk.css",
+    "main.js": "https://lebmouse.github.io/csb-8nj3z/static/js/main.ce9ee7a3.chunk.js",
+    "main.js.map": "https://lebmouse.github.io/csb-8nj3z/static/js/main.ce9ee7a3.chunk.js.map",
+    "runtime-main.js": "https://lebmouse.github.io/csb-8nj3z/static/js/runtime-main.d18faa90.js",
+    "runtime-main.js.map": "https://lebmouse.github.io/csb-8nj3z/static/js/runtime-main.d18faa90.js.map",
+    "static/js/2.cb004c2c.chunk.js": "https://lebmouse.github.io/csb-8nj3z/static/js/2.cb004c2c.chunk.js",
+    "static/js/2.cb004c2c.chunk.js.map": "https://lebmouse.github.io/csb-8nj3z/static/js/2.cb004c2c.chunk.js.map",
+    "index.html": "https://lebmouse.github.io/csb-8nj3z/index.html",
+    "precache-manifest.aabe5b590125835ba5f2dc6a347c1bc0.js": "https://lebmouse.github.io/csb-8nj3z/precache-manifest.aabe5b590125835ba5f2dc6a347c1bc0.js",
+    "service-worker.js": "https://lebmouse.github.io/csb-8nj3z/service-worker.js",
+    "static/css/main.7af86b17.chunk.css.map": "https://lebmouse.github.io/csb-8nj3z/static/css/main.7af86b17.chunk.css.map",
+    "static/js/2.cb004c2c.chunk.js.LICENSE.txt": "https://lebmouse.github.io/csb-8nj3z/static/js/2.cb004c2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d18faa90.js",
+    "static/js/2.cb004c2c.chunk.js",
+    "static/css/main.7af86b17.chunk.css",
+    "static/js/main.ce9ee7a3.chunk.js"
+  ]
+}
